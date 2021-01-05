@@ -1,1 +1,1 @@
-Transmission instead of deluge
+Transmission instead of deluge & no vpn
